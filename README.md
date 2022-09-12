@@ -6,7 +6,7 @@
 
 ##Sobre o CodeFreelancer - 
 
-💻 Projeto desenvolvido com CRA , codefreelancer foi um projeto criado com base em desenvolvedores freelancer que precisam administrar vários projetos ao mesmo tempos e gerencialos
+💻 Projeto desenvolvido com CRA , codefreelancer foi um projeto criado com base em desenvolvedores freelancer que precisam administrar vários projetos ao mesmo tempo e gerencialos
 
 💻 Project developed with CRA , codefreelancer was a project created based on freelancer developers who need to manage multiple projects at the same time
 
