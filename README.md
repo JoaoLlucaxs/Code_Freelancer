@@ -1,6 +1,9 @@
 <h1 align='center'>
     <p>CodeFreelancer!</p>
     <p>Acesse : https://code-freelancer-iwkx7fabg-joaollucaxs.vercel.app/</p>
+    
+    <h2>Utilize o email : testeteste@gmail.com , senha:testando</h2>
+    
 </h1>
 
 
