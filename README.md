@@ -39,7 +39,7 @@ $ npm install
 $ npm install styled-components
 $ npm install date-fns
 $ npm install react-icons
-$ Não esqueça de instalar o react-router-dom
+$ Não esqueça de instalar o react-router-dom / Don't forget to install react-router-dom
 ```
 <p align='center'> Or</p>
 
