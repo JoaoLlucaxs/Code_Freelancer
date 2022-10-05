@@ -27,6 +27,14 @@
 
 •Router-Dom
 
+
+# O que será implementado na próxima sprint?
+
+###Atualizando o projeto com a funcionalidade de ter contrato na plataforma para que o desenvolvedor imprima ou baixe para que o cliente assine 
+
+🎯 Status do projeto - Implementando funcionalidades
+
+
 ## Contribue ♻
 ```bash
 #Clone o projeto - Clone the project
