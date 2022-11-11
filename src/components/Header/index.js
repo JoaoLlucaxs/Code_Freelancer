@@ -3,7 +3,7 @@ import usuario from '../../assets/avatar.png'
 import {useContext} from 'react'
 import {AuthContext} from '../../context/auth'
 import {Link} from 'react-router-dom'
-import { FiHome,FiUser,FiSettings } from "react-icons/fi";
+import { FiHome,FiUser,FiSettings,FiFileText } from "react-icons/fi";
 
 export default function Header(){
     const {user}= useContext(AuthContext)
@@ -30,6 +30,13 @@ export default function Header(){
             <Link to='/profile' style={{display:'block' ,padding:'16px',textDecoration:'none',color:'#ccc'}}>
             <FiSettings color='#ccc' size='23' style={{marginRight:'.5em'}}/>
             Configurações
+            <hr/>
+            </Link>
+
+            
+            <Link to='/contrats' style={{display:'block' ,padding:'16px',textDecoration:'none',color:'#ccc'}}>
+            <FiFileText color='#ccc' size='23' style={{marginRight:'.5em'}}/>
+            Contrato CV
             <hr/>
             </Link>
            

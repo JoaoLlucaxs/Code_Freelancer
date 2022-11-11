@@ -159,6 +159,7 @@ export default function New(){
                         <option value='Suporte'>Suporte</option>
                         <option value='Desenvolvimento'>Desenvolvimento</option>
                         <option value='Manutenção'>Manutenção</option>
+                        <option value='Manutenção'>Dias para pagamento</option>
                     </select>
                     <label>Status</label>
                     <C.status>

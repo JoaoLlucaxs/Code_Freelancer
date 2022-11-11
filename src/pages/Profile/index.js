@@ -6,9 +6,7 @@ import Title from '../../components/Title'
 import {FiSettings,FiUpload} from 'react-icons/fi'
 import * as P from './style'
 import avatar from '../../assets/avatar.png'
-
-
-
+import {toast} from 'react-toastify'
 
 export default function Profile(){
 
@@ -48,7 +46,7 @@ export default function Profile(){
         .ref(`images/${currentUid}/${imageAvatar.name}`)
         .put(imageAvatar)
         .then(async()=>{
-            console.log('Foto enviado com sucesso')
+            toast.success('Foto enviado com sucesso')
 
             await firebase.storage().ref(`images/${currentUid}`)
             .child(imageAvatar.name).getDownloadURL()
