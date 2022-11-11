@@ -5,7 +5,8 @@
 
 ##Sobre o CodeFreelancer - 
 
-⭐⚡ Codefreelancer foi um projeto criado com base em desenvolvedores freelancer que precisam administrar vários projetos ao mesmo tempos e gerencialos nele você é capaz de adicionar foto, adicionar seus projetos e detalhes dele, progresso do projeto, e de quebra deixei disponível dois tipos de contratos para você baixar.
+⭐⚡ Codefreelancer foi um projeto criado com base em desenvolvedores freelance que precisam gerenciar vários projetos ao mesmo tempo e gerenciá-los nele você pode adicionar uma foto, adicionar seus projetos e detalhes dele, andamento do projeto, e além disso, deixei dois tipos de contratos disponíveis para você descer.
+
 
 ⭐⚡ Codefreelancer was a project created based on freelance developers who need to manage several projects at the same time and manage them in it you are able to add a photo, add your projects and details of it, project progress, and besides, I left two types of contracts available for you to go down.
 
@@ -23,10 +24,12 @@
 
 •Router-Dom
 
-## Implementação na próxima Sprint ⛏ 
-    • Cara nova, mudança de visual no início do projeto
 
-    • Detalhes animados de login e senha
+
+## Atualização da próxima Sprint ⛏ 
+    •Cara nova, início será modificado
+
+    •Detalhes animados para login
 ## Contribue ♻
 ```bash
 #Clone o projeto - Clone the project
@@ -39,7 +42,7 @@ $ npm install
 $ npm install styled-components
 $ npm install date-fns
 $ npm install react-icons
-$ Não esqueça de instalar o react-router-dom
+$ Não esqueça de instalar o react-router-dom / Don't forget to install react-router-dom
 ```
 <p align='center'> Or</p>
 
