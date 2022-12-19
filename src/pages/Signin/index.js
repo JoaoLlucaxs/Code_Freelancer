@@ -1,11 +1,10 @@
-
 import React, { useState,useContext } from 'react'
 import {AuthContext} from '../../context/auth'
 import * as C from './signin.js'
 import './signin.js'
 import {Link} from 'react-router-dom'
 import logo from '../../assets/slogan.png'
-import animation from '../../assets/code.gif'
+import animation from '../../assets/freelancer.png'
 
 const Signin=()=> {
   const[email,setEmail]=useState('')
@@ -27,7 +26,6 @@ const Signin=()=> {
    <C.Container>
   
           <C.logo>
-            <h2>Faça login <br/> E administre sua agenda de clientes</h2>
             <img src={animation} alt='animation'/>
           </C.logo>
           

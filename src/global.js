@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+import {createGlobalStyle} from 'styled-components'
 
-
+export default createGlobalStyle`
+    
 body {
   margin: 0;
   padding: 0;
@@ -11,7 +12,7 @@ html,body , #root{
 }
 body{
   font-family: 'Roboto',sans-serif;
-  background-color: #E3B10E;
+
 }
 a{
   text-decoration: none;
@@ -25,3 +26,4 @@ ul{
 *:focus{
   outline: 0;
 }
+`

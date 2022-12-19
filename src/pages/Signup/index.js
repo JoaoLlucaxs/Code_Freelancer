@@ -3,7 +3,7 @@ import React, { useState,useContext } from 'react'
 import * as C from '../Signin/signin'
 import {Link} from 'react-router-dom'
 import logo from '../../assets/slogan.png'
-import animation from '../../assets/code.gif'
+import animation from '../../assets/freelancer.png'
 import {AuthContext} from '../../context/auth'
 
 const Signup=()=> {
@@ -27,7 +27,6 @@ const Signup=()=> {
   return(
    <C.Container>
           <C.logo>
-          <h2>Faça login <br/> E administre sua agenda de clientes</h2>
             <img src={animation} alt=''/>
           </C.logo>
 

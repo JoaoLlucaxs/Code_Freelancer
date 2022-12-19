@@ -5,11 +5,10 @@
 
 ##Sobre o CodeFreelancer - 
 
-⭐⚡ Codefreelancer foi um projeto criado com base em desenvolvedores freelance que precisam gerenciar vários projetos ao mesmo tempo e gerenciá-los nele você pode adicionar uma foto, adicionar seus projetos e detalhes dele, andamento do projeto, e além disso, deixei dois tipos de contratos disponíveis para você descer.
+⭐⚡ Codefreelancer foi um projeto criado com base em desenvolvedores freelancer que precisam gerenciar vários projetos ao mesmo tempo.Nele você pode adicionar uma foto, adicionar seus projetos e detalhes dele, andamento do projeto, e além disso, na plataforma há dois tipos de contratos disponíveis para você enviar para seu cliente.
 
 
-⭐⚡ Codefreelancer was a project created based on freelance developers who need to manage several projects at the same time and manage them in it you are able to add a photo, add your projects and details of it, project progress, and besides, I left two types of contracts available for you to go down.
-
+⭐⚡Codefreelancer was a project created based on freelance developers who need to manage several projects at the same time. In it you can add a photo, add your projects and details of it, progress of the project, and in addition, on the platform there are two types of contracts available for you send to your customer.
 ## Tecnologias usadas ⛏ 
 
 •React.Js
@@ -27,13 +26,12 @@
 
 
 ## Atualização da próxima Sprint ⛏ 
-    •Cara nova, início será modificado
+    • Melhorias na página de contratos
 
-    •Detalhes animados para login
 ## Contribue ♻
 ```bash
 #Clone o projeto - Clone the project
-$ git clone
+$ git clone (url do projeto)
 ```
 
 ```bash
@@ -51,12 +49,7 @@ $ yarn
 ```
 
 <h1 align='center'>
-    <p>Gif</p>
-    <img src='./src/assets/codefre.gif'/>
-</h1>
-
-<h1 align='center'>
-     <p>Visualização</p>
-    <img src='./src/assets/cap.png'/>
+    <img src='./src/assets/freelancer.png'/>
+     <img src='./src/assets/pageinitial.jpeg'/>
     <img src='./src/assets/cap1.png'/>
 </h1>

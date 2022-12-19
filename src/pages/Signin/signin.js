@@ -16,12 +16,8 @@ import styled from 'styled-components'
         justify-content: center;
         align-items: center;
         flex-direction: column;
-
-        h2{
-            color:#ccc;
-        }
         img{
-            width: 55vh;
+          max-width: 100%;
         }
 
         @media(max-width:700px){
