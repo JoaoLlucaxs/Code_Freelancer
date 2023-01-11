@@ -11,7 +11,7 @@ export const Content=styled.div`
 `
 export const Container=styled.div`
      display: flex;
-     background-color:  #E3B10E;
+     background-color:  #cccc;
     border-radius: 5px;
     padding: .8em;
     align-items: center;

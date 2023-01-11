@@ -4,8 +4,7 @@ export const Contract=styled.div`
      display: flex;
     flex-direction: column;
     align-items: center;
-    color: #fff;
-    border: 1px solid #ccc;
+    color: #000;
 
     a{
     padding: 10px;

@@ -11,7 +11,7 @@ export const content=styled.div`
 
 export const Container=styled.div`
     display: flex;
-    background-color: #E3B10E;
+    background-color: #222;
     border-radius: 5px;
     padding: .8em;
     margin-bottom: 1em;

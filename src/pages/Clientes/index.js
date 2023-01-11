@@ -43,7 +43,7 @@ export default function Clientes(){
                 <Title name='Clientes'>
                     <FiUser size={25}/>
                 </Title>
-            <C.Container style={{backgroundColor:"#E3B10E",color:'#FFF'}}>
+            <C.Container style={{backgroundColor:"#222",color:'#FFF'}}>
                <C.formProfile onSubmit={handleAdd}>
                <label>Cliente / Nome da Empresa </label>
                 <input type='text' placeholder='Cliente' value={cliente} onChange={(e)=>setCliente(e.target.value)}/>

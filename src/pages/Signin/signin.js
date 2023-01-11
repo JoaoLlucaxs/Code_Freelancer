@@ -57,7 +57,7 @@ import styled from 'styled-components'
     export const Input=styled.input`
         width: 100%;
         margin-bottom: 0.5em;
-        border: 0;
+        border:0;
         border-radius: 7px;
         padding: 10px;
         font-size: 15px;

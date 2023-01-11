@@ -1,4 +1,3 @@
-
 import * as M from './modal'
 import {FiX} from 'react-icons/fi'
 
