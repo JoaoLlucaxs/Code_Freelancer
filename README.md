@@ -5,10 +5,7 @@
 
 ##Sobre o CodeFreelancer - 
 
-⭐⚡ Codefreelancer foi um projeto criado com base em desenvolvedores freelancer que precisam gerenciar vários projetos ao mesmo tempo.Nele você pode adicionar uma foto, adicionar seus projetos e detalhes dele, andamento do projeto, e além disso, na plataforma há dois tipos de contratos disponíveis para você enviar para seu cliente.
-
-
-⭐⚡Codefreelancer was a project created based on freelance developers who need to manage several projects at the same time. In it you can add a photo, add your projects and details of it, progress of the project, and in addition, on the platform there are two types of contracts available for you send to your customer.
+Ajudar microempreendedores e pessoas em situação de vulnerabilidade econômica que queiram oferecer serviços digitais e não sabem organizar seus projetos.
 ## Tecnologias usadas ⛏ 
 
 •React.Js
